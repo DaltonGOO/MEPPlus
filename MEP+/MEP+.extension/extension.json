@@ -1,0 +1,14 @@
+{
+    "builtin": "False",
+    "default_enabled": "False",
+    "type": "extension",
+    "rocket_mode_compatible": "True",
+    "name": "MEP+",
+    "description": "MEP Scripts for Autodesk Revit",
+    "author": "Dalton Goodwin",
+    "author_profile": "https://github.com/DaltonGOO",
+    "url": "https://github.com/DaltonGOO/MEPPlus",
+    "website": "https://github.com/DaltonGOO/MEPPlus",
+    "image": "",
+    "dependencies": []
+}
